@@ -5,6 +5,7 @@
 		"movement": 2,
 		"cost": 450,
 		"uniques": [
+			"Can move immediately once bought",
                         "Gain control over [All] tiles in a [1]-tile radius <by consuming this unit>",
                         "Comment [A good relationship with neighbors starts from 'sharing' terriotory]",
                         "Triggers a global alert upon build start <hidden from users>",
